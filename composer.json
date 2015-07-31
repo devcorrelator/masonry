@@ -1,0 +1,7 @@
+{
+    "name": "devcorrelator/masonry",
+    "description": "From: https://github.com/desandro/masonry",
+    "keywords": ["jquery", "masonry", "grid", "layout"],
+    "type": "component",
+    "homepage": "https://github.com/devcorrelator/masonry"
+}
